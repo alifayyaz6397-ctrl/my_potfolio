@@ -6,7 +6,7 @@ import { profile } from "../data/content";
 // the page; everything else stays static. Respects reduced-motion by
 // rendering the final state immediately.
 const LINES = [
-  { type: "cmd", text: "whoami" },
+  { type: "cmd", text: "who am i" },
   { type: "out", text: "ali_fayyaz — b.s. computer science, uet lahore" },
   { type: "cmd", text: "cat focus.txt" },
   { type: "out", text: "backend engineering · database systems · applied cryptography" },

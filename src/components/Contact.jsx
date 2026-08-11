@@ -20,7 +20,7 @@ export default function Contact() {
           linkedin <span className="arrow">→</span>
         </a>
       </div>
-      <p className="foot-note"># EOF</p>
+      
     </footer>
   );
 }
